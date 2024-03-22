@@ -1,0 +1,100 @@
+
+.header{
+    width: 1146px;
+height: 662px;
+top: 94px;
+left: 0px;
+gap: 0px;
+opacity: 0px;
+background-color: #262222;
+position: absolute;
+}
+
+.header .img{
+    width: 761px;
+height: 567px;
+top: 9px;
+left: 157px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+}
+
+.card{
+    position: absolute;
+    width: 578px;
+height: 346px;
+top: 158px;
+left: 284px;
+gap: 0px;
+border-radius: 27px;
+opacity: 0px;
+background-color: rgba(255, 255, 255, 0.651);
+border: 0.5px solid rgba(255, 255, 255, 0.502);
+color: white;
+}
+
+.card img{
+    position: absolute;
+    width: 83px;
+height: 64px;
+top: 240px;
+left: 460px;
+
+}
+
+.card h1{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 29.05px;
+letter-spacing: 0.215em;
+text-align: left;
+
+}
+
+.card .card_number{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29.05px;
+letter-spacing: 0.215em;
+text-align: left;
+top: 160px;
+left: 20px;
+position: absolute;
+}
+
+.card p{
+    top: 220px;
+left: 20px;
+position: absolute;
+font-family: Inter;
+font-size: 10px;
+font-weight: 300;
+line-height: 12.1px;
+text-align: left;
+
+}
+
+.card .card_text3{
+    top: 220px;
+    left: 20px;
+    position: absolute;  
+}
+
+
+.card .card_text4{
+    top: 270px;
+    left: 20px;
+    position: absolute;  
+}
+
+.card .card_text5{
+    top: 130px;
+    left: 480px;
+    position: absolute;  
+}
